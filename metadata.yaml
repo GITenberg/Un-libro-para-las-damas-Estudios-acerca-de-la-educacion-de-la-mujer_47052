@@ -1,4 +1,8 @@
 _repo: Un-libro-para-las-damas-Estudios-acerca-de-la-educacion-de-la-mujer_47052
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47052-h/images/cover.jpg
 creator:
   author:
     agent_name: Sinués de Marco, María del Pilar
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '44110'
     url: http://www.gutenberg.org/2009/agents/44110
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47052#Un-libro-para-las-damas-Estudios-acerca-de-la-educacion-de-la-mujer
 gutenberg_issued: '2014-10-05'
 gutenberg_type: Text
 identifiers:
