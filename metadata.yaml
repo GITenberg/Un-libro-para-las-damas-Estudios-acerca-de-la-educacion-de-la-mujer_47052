@@ -21,6 +21,8 @@ language: es
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Un libro para las damas
 
   Estudios acerca de la educación de la mujer'
